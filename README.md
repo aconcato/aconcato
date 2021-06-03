@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Microsoft Dynamics 365 Business Central and Integrations 
 - 🤔 I’m looking for help with who knows..
 - 💬 Ask me about ⚽
-- 📫 How to reach me: [linkein](https://www.linkedin.com/in/andreaconcato/)
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/andreaconcato/)
 - 🏢 TVision Technology Ltd :[here](https://www.tvisiontech.co.uk/)
 
 <!--
