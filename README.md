@@ -1,5 +1,14 @@
 ### Hi 👋 My name is Andrea
 
+
+- 🔭 I’m currently working on [Bevica](https://bevica.tvisiontech.co.uk/) Microsoft Dynamics 365 Solution for Drink and Fine Wine 🍷
+- 🌱 I’m currently learning writing .md raw 😁
+- 👯 I’m looking to collaborate on Microsoft Dynamics 365 Business Central and Integrations 
+- 🤔 I’m looking for help with who knows..
+- 💬 Ask me about ⚽
+- 📫 How to reach me: [linkein](https://www.linkedin.com/in/andreaconcato/)
+- 🏢 TVision Technology Ltd :[here](https://www.tvisiontech.co.uk/)
+
 <!--
 **aconcato/aconcato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
